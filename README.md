@@ -1,0 +1,2 @@
+# rektorat
+Projekt programistyczny RPG
